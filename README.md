@@ -29,5 +29,6 @@ Note: It logs incidents from unidentified IPs in the console.
 1. Enhance code for better time complexity.
 2. Maintain pandas dataframe for all operations.
 3. Simplify and Isolate few code blocks to create functions.
+4. Parallelize some of the calls and processing.
 
 Thanks for reading :)
